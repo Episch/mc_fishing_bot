@@ -8,13 +8,13 @@ Simple python script for simple afk fisching in minecraft
 2. Clone this repository.
 
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
+    git clone https://github.com/Episch/mc_fishing_bot.git
     ```
 
 3. Change to the script directory.
 
     ```bash
-    cd your-repository
+    cd mc_fishing_bot
     ```
 
 4. Install the required packages from the `requirements.txt` file.
@@ -28,7 +28,7 @@ Simple python script for simple afk fisching in minecraft
 1. Execute the script.
 
     ```bash
-    python3 angebot.py
+    python3 fishingbot.py
     ```
 
 2. Follow the instructions in the console.
